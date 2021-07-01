@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Online Attendance System</string>
+    <string name="submit">Submit</string>
+    <string name="invalid_username">invalid username</string>
+    <string name="invalid_password">invalid_password</string>
+    <string name="login_failed">login_failed</string>
+    <string name="generate_today_s_attendance">Generate Today\'s Attendance</string>
+    <string name="welcome">Welcome</string>
+    <array name="classes">
+        <item>select Class</item>>
+        <item>1_A</item>
+        <item>1_B</item>
+        <item>1_C</item>
+        <item>1_D</item>
+        <item>2_A</item>
+        <item>2_B</item>
+        <item>2_C</item>
+        <item>2_D</item>
+        <item>3_A</item>
+        <item>3_B</item>
+        <item>3_C</item>
+        <item>3_D</item>
+        <item>4_A</item>
+        <item>4_B</item>
+        <item>4_C</item>
+        <item>4_D</item>
+        <item>5_A</item>
+        <item>5_B</item>
+        <item>5_C</item>
+        <item>5_D</item>
+        <item>6_A</item>
+        <item>6_B</item>
+        <item>6_C</item>
+        <item>6_D</item>
+        <item>7_A</item>
+        <item>7_B</item>
+        <item>7_C</item>
+        <item>7_D</item>
+        <item>8_A</item>
+        <item>8_B</item>
+        <item>8_C</item>
+        <item>8_D</item>
+        <item>9_A</item>
+        <item>9_B</item>
+        <item>9_C</item>
+        <item>9_D</item>
+        <item>10_A</item>
+        <item>10_B</item>
+        <item>10_C</item>
+        <item>10_D</item>
+
+
+    </array>
+    <array name="periods">
+        <item>Marathi</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Science</item>
+        <item>History</item>
+        <item>Mathematics</item>
+        <item>Geography</item>
+        <item>Sanskrit</item>
+        <item>Sports</item>
+
+    </array>
+</resources>

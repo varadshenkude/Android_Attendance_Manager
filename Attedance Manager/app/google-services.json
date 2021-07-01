@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762471534514",
+    "firebase_url": "https://schoolmanageswarajya.firebaseio.com",
+    "project_id": "schoolmanageswarajya",
+    "storage_bucket": "schoolmanageswarajya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762471534514:android:1622f1561760244ae8deab",
+        "android_client_info": {
+          "package_name": "com.swarajya.schoolAttendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762471534514-t99crjds5ol0aefhcj2rdosa7n20mhv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swarajya.schoolAttendance",
+            "certificate_hash": "3d0193d235ef88843ab8de8239a420907e36db32"
+          }
+        },
+        {
+          "client_id": "762471534514-8gndcht585jn7f673od4boi8mji0f078.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1VJvq1TAXYPYdo0ZOd5BBNLd0j4vLtcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762471534514-8gndcht585jn7f673od4boi8mji0f078.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
